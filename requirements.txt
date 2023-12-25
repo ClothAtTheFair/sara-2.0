@@ -1,0 +1,8 @@
+fastapi
+"uvicorn[standard]"
+git+https://github.com/openai/whisper.git 
+numpy
+torch
+pydub
+SpeechRecognition
+pyaudio
